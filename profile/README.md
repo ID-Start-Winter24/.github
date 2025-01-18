@@ -24,4 +24,3 @@
 
 ![12_Creativity.png](../12_Creativity.png)
 
-![Englisch-Lern Bot](../Team12_EnglishBuddy_Sprint2.png)
