@@ -1,5 +1,7 @@
 # Chatbots aus dem Projektmodul Start Wintersemester 2024/25 MUC.DAI
 
+![StudyID](./01_StudyID.png)
+
 ![StudyID](./01_StudyID_Bot.png)
 
 ![02_Case_Unknown.png](./02_Case_Unknown.png)
